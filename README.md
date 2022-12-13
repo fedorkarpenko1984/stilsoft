@@ -14,11 +14,8 @@ yarn serve
 ```
 yarn build
 ```
+Для запросов использовал сервис mock API. Эндпоинт -  https://mockapi.io/projects/638b225581df38ab34623c88/users
+Фото для карточек сущностей произвольные из сети, залил на фотохостинг:
+https://i.ibb.co/8NZJYzV/photo-man.jpg и https://i.ibb.co/N7ccb2H/photo-woman.jpg.
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Для приложения использовал vue2 и vuex, bootstrap для стилизации. Так же готовый компонент календаря https://www.npmjs.com/package/vue2-datepicker.
